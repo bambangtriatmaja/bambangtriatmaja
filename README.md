@@ -18,6 +18,9 @@ Perkenalkan nama saya **Bambang Triatmaja**.
 - Sertifikat HTML Course [Sololearn](https://www.sololearn.com/Certificate/1014-21073876/jpg).
 
 💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/bambang-triatmaja-386197179/) ku ya.😄
+  - Instagram : [@bambangtriatmja](https://www.instagram.com/bambangtriatmja/).
+  - Medium : [bambangtriatmaja](https://bambangtriatmaja.medium.com/).
+  - Blogger : [coretankatabambang](https://coretankatabambang.blogspot.com/).
 
 <p align="left">
 <a href="https://github.com/bambangtriatmaja">
