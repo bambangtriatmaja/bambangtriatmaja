@@ -18,6 +18,12 @@ Saya mempunyai beberapa sertifikat di bidang pemrograman di antaranya:
 - Sertifikat HTML Course [Sololearn](https://www.sololearn.com/Certificate/1014-21073876/jpg).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/bambang-triatmaja-386197179/) ku ya.
+
+<p align="left">
+<a href="https://github.com/bambangtriatmaja">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bambangtriatmaja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 <!--
 **bambangtriatmaja/bambangtriatmaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
