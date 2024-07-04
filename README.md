@@ -5,10 +5,10 @@ Perkenalkan nama saya **Bambang Triatmaja**.
 
 🔭 Saya seorang **Mahasiswa** di [STT Terpadu Nurul Fikri](https://nurulfikri.ac.id/).
 
-🌱 Saya sekarang berada di semester 5 dengan jurusan [Teknik Informatika](https://nurulfikri.ac.id/teknik-informatika/).
+🌱 Saya sekarang berada di semester 8 dengan jurusan [Teknik Informatika](https://nurulfikri.ac.id/teknik-informatika/).
 
 👯 Selain berkuliah, saya juga berkontribusi di beberapa organisasi didalam dan diluar kampus di antaranya:
-- [LDK Senada](https://www.instagram.com/senada.sttnf/) sebagai Ketua Umum Tahun 2023 - Sekarang.
+- [LDK Senada](https://www.instagram.com/senada.sttnf/) sebagai Ketua Umum Tahun 2023 - 2024.
 - [LDK Senada](https://www.instagram.com/senada.sttnf/) sebagai Kepala Biro Penelitian dan pengembangan Tahun 2022.
 - [LDK Senada](https://www.instagram.com/senada.sttnf/) sebagai staff Humas Tahun 2021.
 - [Linux NF](https://www.instagram.com/linux.nf/) sebagai Sekretaris Tahun 2021.
